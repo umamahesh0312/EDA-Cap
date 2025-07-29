@@ -2,5 +2,5 @@ streamlit
 pandas
 matplotlib
 seaborn
-beautifulsoup8
+beautifulsoup4
 requests
